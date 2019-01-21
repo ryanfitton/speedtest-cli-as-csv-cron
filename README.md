@@ -43,7 +43,7 @@ sudo chmod +x speedtest-csv
 ```
 
 
-5. You will need a line in the file to so that it can ben run from CRON:
+5. You will need to edit a line in the file to so that it can be run from CRON:
 
 ```
 sudo nano speedtest-csv
